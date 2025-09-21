@@ -11,3 +11,7 @@ create a new environment
 '''
 conda create -p venv python==3.12 -y
 '''
+git config --global user.name
+git config --global user.email
+
+git push origin main
